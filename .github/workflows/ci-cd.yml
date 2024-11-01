@@ -12,9 +12,6 @@ jobs:
     name: Executando job de teste
     runs-on: ubuntu-lastest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Executando um comando simples
-      run: echo "Olá, mundo! Este é o nosso primeiro job no GitHub Actions!"
-
+      - uses: actions/checkout@v4
+      - name: Executando um comando simples
+        run: echo "Olá, mundo! Este é o nosso primeiro job no GitHub Actions!"
