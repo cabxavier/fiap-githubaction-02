@@ -4,7 +4,7 @@ name: Test Workflow
 # Definindo quando o workflow será disparado
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
 
 # Definindo os jobs que o workflow executará
 jobs:
