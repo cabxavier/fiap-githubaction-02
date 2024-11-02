@@ -13,3 +13,6 @@ C:\Users\cesar.xavier\Desktop\pós graduacao - arquitetura de sistemas .net com 
 C:\Users\cesar.xavier\Desktop\pós graduacao - arquitetura de sistemas .net com azure\fiap-githubaction-02\obj\Debug\net8.0\fiap-githubaction-02.pdb
 C:\Users\cesar.xavier\Desktop\pós graduacao - arquitetura de sistemas .net com azure\fiap-githubaction-02\obj\Debug\net8.0\fiap-githubaction-02.genruntimeconfig.cache
 C:\Users\cesar.xavier\Desktop\pós graduacao - arquitetura de sistemas .net com azure\fiap-githubaction-02\obj\Debug\net8.0\ref\fiap-githubaction-02.dll
+C:\Users\cesar.xavier\Desktop\pós graduacao - arquitetura de sistemas .net com azure\fiap-githubaction-02\bin\Debug\net8.0\Bogus.dll
+C:\Users\cesar.xavier\Desktop\pós graduacao - arquitetura de sistemas .net com azure\fiap-githubaction-02\obj\Debug\net8.0\fiap-githubaction-02.csproj.AssemblyReference.cache
+C:\Users\cesar.xavier\Desktop\pós graduacao - arquitetura de sistemas .net com azure\fiap-githubaction-02\obj\Debug\net8.0\fiap-git.941E923C.Up2Date

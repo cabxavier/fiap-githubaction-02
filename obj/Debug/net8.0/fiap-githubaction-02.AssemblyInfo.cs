@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fiap-githubaction-02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da43f93ea0a5a69a35fce2b274d8bef66dda043e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+117644e52e7dc05d99eb151271b0573bdf2e70a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("fiap-githubaction-02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fiap-githubaction-02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
