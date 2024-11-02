@@ -12,17 +12,17 @@ jobs:
     name: Executando job de teste
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
+    - name: Step 1
       uses: actions/checkout@v2
 
     - name: Docker Login
-      uses: docker/login-action@v3.3.0
+      uses: docker/login-action@v3.0.0
       with:
         username: 'cabxavier'
         password: ${{ secrets.DOCKERHUB_PASSWORD }}
     
     - name: Build and push Docker images
-      uses: docker/build-push-action@v6.9.0
+      uses: docker/build-push-action@v5.0.0
       with:       
         context: .
         tags: 'cabxavier/fiap-ghactions:latest'
